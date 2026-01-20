@@ -1,4 +1,4 @@
 # This is my local Repo
 
-<h2>Owner : </h2><h3>Ansari Sumaid AKhter</h3><br>
+<h2>Owner : Ansari Sumaid Akhter</h2><br>
 
